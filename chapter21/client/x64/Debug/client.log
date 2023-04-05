@@ -1,0 +1,4 @@
+﻿  echo_client_win.c
+G:\TCPIP_Src\Chapter21 source\echo_client_win.c(47,26): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter21 source\echo_client_win.c(31,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.vcxproj -> D:\code\C++\tcp_ip_learning\chapter21\client\x64\Debug\client.exe

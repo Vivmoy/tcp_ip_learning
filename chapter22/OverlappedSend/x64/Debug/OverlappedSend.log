@@ -1,0 +1,4 @@
+﻿  OverlappedSend_win.c
+G:\TCPIP_Src\Chapter22 source\OverlappedSend_win.c(39,25): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+G:\TCPIP_Src\Chapter22 source\OverlappedSend_win.c(29,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  OverlappedSend.vcxproj -> D:\code\C++\tcp_ip_learning\chapter22\OverlappedSend\x64\Debug\OverlappedSend.exe
