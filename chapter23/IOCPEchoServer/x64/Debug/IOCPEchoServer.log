@@ -1,0 +1,5 @@
+﻿  IOCPEchoServ_win.c
+G:\TCPIP_Src\Chapter23 source\IOCPEchoServ_win.c(46,12): warning C4018: “<”: 有符号/无符号不匹配
+G:\TCPIP_Src\Chapter23 source\IOCPEchoServ_win.c(70,72): warning C4311: “类型强制转换”: 从“LPPER_HANDLE_DATA”到“DWORD”的指针截断
+G:\TCPIP_Src\Chapter23 source\IOCPEchoServ_win.c(96,13): warning C4133: “函数”: 从“LPDWORD”到“PULONG_PTR”的类型不兼容
+  IOCPEchoServer.vcxproj -> D:\code\C++\tcp_ip_learning\chapter23\IOCPEchoServer\x64\Debug\IOCPEchoServer.exe

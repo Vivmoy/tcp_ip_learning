@@ -1,0 +1,21 @@
+﻿  webserv_win.c
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(51,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(76,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(80,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(81,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(103,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(104,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(105,21): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(106,22): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(110,19): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(95,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(96,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(125,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(126,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(127,21): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(128,22): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(129,22): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(137,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(138,2): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\TCPIP_Src\Chapter24 source\webserv_win.c(139,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  webserv_win.vcxproj -> D:\code\C++\tcp_ip_learning\chapter24\webserv_win\x64\Debug\webserv_win.exe

@@ -1,0 +1,4 @@
+﻿  StableEchoClnt_win.c
+G:\TCPIP_Src\Chapter23 source\StableEchoClnt_win.c(44,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\TCPIP_Src\Chapter23 source\StableEchoClnt_win.c(29,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  StableEchoClnt.vcxproj -> D:\code\C++\tcp_ip_learning\chapter23\StableEchoClnt\x64\Debug\StableEchoClnt.exe
